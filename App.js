@@ -81,7 +81,7 @@ const App: () => Node = () => {
             <DebugInstructions />
           </Section>
           <Section title="Learn More">
-            This change is made by Junaid
+            This change is made by Junaid blah balh balh
           </Section>
           <LearnMoreLinks />
         </View>
